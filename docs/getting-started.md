@@ -402,6 +402,7 @@ c:\Users\YOUR_USERNAME\AppData\Local\Android\Sdk
 ```
 
 You can find the actual location of the SDK in the Android Studio "Preferences" dialog, under **Appearance & Behavior** → **System Settings** → **Android SDK**.
+Ensure that there is no semi-colon at the end of the variable value as, it happens when you edit an existing variable with multiple data which are actually separated by semi-colons.
 
 Open a new Command Prompt window to ensure the new environment variable is loaded before proceeding to the next step.
 
